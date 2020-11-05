@@ -1,0 +1,28 @@
+PODS:
+  - Masonry (1.1.0)
+  - WLLogin (0.1.0)
+  - WLTools (0.1.0)
+
+DEPENDENCIES:
+  - Masonry
+  - WLLogin (from `Lib/WLLogin`)
+  - WLTools (from `Lib/WLTools`)
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+
+EXTERNAL SOURCES:
+  WLLogin:
+    :path: Lib/WLLogin
+  WLTools:
+    :path: Lib/WLTools
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  WLLogin: f6f954a303569d84c85b6b0b202dbd781f2f8039
+  WLTools: 845bd4612134949cb583c83bde4c6d176144e2ee
+
+PODFILE CHECKSUM: 533e5270a727bda0b4cf9e6abfcb033a15c95435
+
+COCOAPODS: 1.9.3

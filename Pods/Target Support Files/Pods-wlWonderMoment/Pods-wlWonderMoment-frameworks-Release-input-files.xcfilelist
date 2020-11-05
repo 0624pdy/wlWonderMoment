@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-wlWonderMoment/Pods-wlWonderMoment-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Masonry/Masonry.framework
+${BUILT_PRODUCTS_DIR}/WLLogin/WLLogin.framework
+${BUILT_PRODUCTS_DIR}/WLTools/WLTools.framework
