@@ -24,5 +24,4 @@
     [WLLogin logout];
 }
 
-
 @end
